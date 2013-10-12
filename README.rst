@@ -1,4 +1,5 @@
-blakecoin mod for OpenCL
+Blakecoin mod of OpenCL blake-256 hashing
+=============================================
 
 Untested but modded reduced rounds ready for porting into GPU miner as a kernel
 
