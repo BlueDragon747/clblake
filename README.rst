@@ -1,3 +1,12 @@
+blakecoin mod for OpenCL
+
+Untested but modded reduced rounds ready for porting into GPU miner as a kernel
+
+* blake256.cl
+
+other code untouched and unmodded
+
+
 =========
  clblake
 =========
